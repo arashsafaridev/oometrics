@@ -1,0 +1,77 @@
+<div class="customer-activities oo-tab active" id="customer-activities">
+  <h3><?php _e('Activities log','oometrics');?></h3>
+  <ul class="oo-info-details">
+    <li class="device-type">
+      <small><?php _e('Type','oometrics');?></small>
+      <strong><?php _e('Mobile','oometrics');?></strong>
+    </li>
+    <li class="device-brand">
+      <small><?php _e('Brand','oometrics');?></small>
+      <strong><?php _e('Apple','oometrics');?></strong>
+    </li>
+    <li class="device-browser">
+      <small><?php _e('Browser','oometrics');?></small>
+      <strong><?php _e('Chrome','oometrics');?></strong>
+    </li>
+    <li class="device-resolution">
+      <small><?php _e('Resolution','oometrics');?></small>
+      <strong><?php _e('1920x1080','oometrics');?></strong>
+    </li>
+  </ul>
+
+</div>
+<div class="customer-profile oo-tab" id="customer-profile">
+  <h2 class="session-value"><small><?php _e('Session value','oometrics');?></small><strong>0</strong></h2>
+  <h3><?php _e('Customer info','oometrics');?></h3>
+  <ul class="oo-info-details">
+    <li class="device-type">
+      <small><?php _e('Type','oometrics');?></small>
+      <strong><?php _e('Mobile','oometrics');?></strong>
+    </li>
+    <li class="device-brand">
+      <small><?php _e('Brand','oometrics');?></small>
+      <strong><?php _e('Apple','oometrics');?></strong>
+    </li>
+    <li class="device-browser">
+      <small><?php _e('Browser','oometrics');?></small>
+      <strong><?php _e('Chrome','oometrics');?></strong>
+    </li>
+    <li class="device-resolution">
+      <small><?php _e('Resolution','oometrics');?></small>
+      <strong><?php _e('1920x1080','oometrics');?></strong>
+    </li>
+  </ul>
+</div>
+<div class="digital-profile oo-tab" id="digital-profile">
+  <h3><?php _e('Device info','oometrics');?></h3>
+  <ul class="oo-info-details">
+    <li class="device-type">
+      <small><?php _e('Type','oometrics');?></small>
+      <strong><?php _e('Mobile','oometrics');?></strong>
+    </li>
+    <li class="device-brand">
+      <small><?php _e('Brand','oometrics');?></small>
+      <strong><?php _e('Apple','oometrics');?></strong>
+    </li>
+    <li class="device-browser">
+      <small><?php _e('Browser','oometrics');?></small>
+      <strong><?php _e('Chrome','oometrics');?></strong>
+    </li>
+    <li class="device-resolution">
+      <small><?php _e('Resolution','oometrics');?></small>
+      <strong><?php _e('1920x1080','oometrics');?></strong>
+    </li>
+  </ul>
+
+  <h3><?php _e('Connection info','oometrics');?></h3>
+  <ul class="oo-info-details">
+    <li class="connection-ip">
+      <small><?php _e('IP','oometrics');?></small>
+      <strong><?php _e('127.0.0.1','oometrics');?></strong>
+    </li>
+    <li class="connection-referrer">
+      <small><?php _e('Referrer','oometrics');?></small>
+      <strong><?php _e('-','oometrics');?></strong>
+    </li>
+  </ul>
+</div>
