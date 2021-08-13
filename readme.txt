@@ -3,8 +3,8 @@ Contributors: oometrics, arashsafari
 Donate link: https://github.com/arashsafaridev/oometrics
 Tags: woocommerce, analytics, chat, CRM, statistics, marketing
 Requires at least: 5.0
-Tested up to: 5.5
-Stable tag: 1.2.0
+Tested up to: 5.8
+Stable tag: 1.3.0
 Requires PHP: 7.0+
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -200,6 +200,9 @@ There is an option in settings.
 * Fixed Cart manipulation feature
 * UI/UX enhancement on both back-end & front-end
 * Optimization: requests for chat and session check
+
+= v1.3
+* Fixed some bugs
 
 == Upgrade Notice ==
 

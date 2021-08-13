@@ -2,7 +2,7 @@
 /**
  * Plugin Name:      OOMetrics
  * Description:       WooCommerce Smart Metrics and Live Customer Channel; Set discounts, coupons and pop ups remotely for each customer individually while you are watching statistics!
- * Version:            1.2.0
+ * Version:            1.3.0
  * Author:             OOMetrics
  * Author URI:       https://github.com/arashsafaridev
  * Text Domain:     oometrics
@@ -20,7 +20,7 @@
 use Jaybizzle\CrawlerDetect\CrawlerDetect;
 
 if(!defined('OOMETRICS_PLUGIN_VERSION'))
-	define('OOMETRICS_PLUGIN_VERSION', '1.2.0');
+	define('OOMETRICS_PLUGIN_VERSION', '1.3.0');
 if(!defined('OOMETRICS_URL'))
 	define('OOMETRICS_URL', plugin_dir_url( __FILE__ ));
 if(!defined('OOMETRICS_PATH'))

@@ -1,0 +1,1994 @@
+# Copyright (C) 2018 weDevs
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: OOMetrics\n"
+"Report-Msgid-Bugs-To: https://wedevs.com/account/tickets/\n"
+"POT-Creation-Date: 2020-08-19 12:31+0330\n"
+"PO-Revision-Date: 2020-08-19 12:31+0330\n"
+"Last-Translator: \n"
+"Language-Team:  <wpoometrics@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../inc/ajax-class.php:208
+msgid "No one is online now"
+msgstr "هیچ کس آنلاین نیست"
+
+#: ../inc/ajax-class.php:383
+msgid "Cart is empty for now"
+msgstr "سبد خرید خالی است"
+
+#: ../inc/ajax-class.php:632
+msgid "<strong>Error!</strong> upload failed."
+msgstr "<strong>خطا!</strong> آپلود شکست خورد!"
+
+#: ../inc/ajax-class.php:804
+msgid "Conversations"
+msgstr "گفتگوها"
+
+#: ../inc/ajax-class.php:1141
+msgid "Cart Updated Successfully!"
+msgstr "سبد خرید با موفقیت به روزرسانی شد!"
+
+#: ../inc/ajax-class.php:1143
+msgid "Customer doesn't have any cart session yet!"
+msgstr "مشتری هیچ سژن کارتی ندارد"
+
+#: ../inc/ajax-class.php:1166
+msgid "No template found!"
+msgstr "قالبی یافت نشد!"
+
+#: ../inc/ajax-class.php:1167
+msgid ""
+"After clicking on any session, you can add your template via left panel / "
+"push / promotional / save as template"
+msgstr ""
+"بعد از کلیک بر روی هر سژن، می توانید قالب خود را از ستون سمت راست بخش پوش / "
+"تبلیغاتی / ذخیره به عنوان قالب استفاده نمایید"
+
+#: ../inc/ajax-class.php:1171
+msgid "Delete"
+msgstr "حذف"
+
+#: ../inc/chat-class.php:344
+msgid "Chat with:"
+msgstr "گفتگو با:"
+
+#: ../inc/chat-class.php:352
+msgid "Conversation"
+msgstr "گفتگو"
+
+#: ../inc/chat-class.php:440
+msgid "Edited"
+msgstr "ویرایش"
+
+#: ../inc/chat-class.php:505
+msgid "Unknow"
+msgstr "ناشناس"
+
+#: ../inc/chat-class.php:507 ../inc/chat-class.php:517
+msgid "Sent"
+msgstr "رفت"
+
+#: ../inc/chat-class.php:509 ../inc/chat-class.php:519
+msgid "Delivered"
+msgstr "رسید"
+
+#: ../inc/chat-class.php:511 ../inc/chat-class.php:521
+msgid "Seen"
+msgstr "دید"
+
+#: ../inc/chat-class.php:515
+msgid "Unknown"
+msgstr "ناشناس"
+
+#: ../inc/chat-class.php:694 ../inc/chat-class.php:698
+#: ../inc/chat-class.php:700
+msgid "Download"
+msgstr "دانلود"
+
+#: ../inc/oometrics-class.php:200
+msgid "OOArea Sidebar"
+msgstr "سایدبار OOArea"
+
+#: ../inc/oometrics-class.php:202
+msgid "Widgets in this area will be shown as pushed popup content"
+msgstr "ابزارک ها در اینجا به عنوان محتوای پوش از نوع پاپ آپ خواهد بود"
+
+#: ../inc/oometrics-class.php:244
+msgid "Settings saved successfully!"
+msgstr "تنظیمات با موفقیت ذخیره شد!"
+
+#: ../inc/oometrics-class.php:291 ../inc/oometrics-class.php:322
+msgid "Back"
+msgstr "بازگشت"
+
+#: ../inc/oometrics-class.php:292
+msgid "Uploading"
+msgstr "در حال آپلود فایل"
+
+#: ../inc/oometrics-class.php:336 ../inc/oometrics-class.php:337
+msgid "OOMetrics"
+msgstr "اوومتریکس"
+
+#: ../inc/oometrics-class.php:346 ../inc/oometrics-class.php:347
+#: ../templates/dashboard/dashboard.php:220
+msgid "Reports"
+msgstr "گزارشات"
+
+#: ../inc/oometrics-class.php:354 ../inc/oometrics-class.php:355
+#: ../templates/dashboard/dashboard.php:221
+#: ../templates/reports/dashboard.php:56
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ../inc/oometrics-class.php:460 ../oometrics.php:288
+msgid "Tell us how can we help you and give you better shopping experience"
+msgstr "به ما بگویید چگونه می توانیم کمکتان کنیم"
+
+#: ../inc/oometrics-class.php:463
+msgid ""
+"You are main user. Chat is only available throgh WordPress Dashboard for "
+"this user. To test use incognito or private browsing or other device!"
+msgstr ""
+
+#: ../inc/oometrics-class.php:467
+msgid "Ask Something"
+msgstr "چیزی بپرسید"
+
+#: ../inc/oometrics-class.php:484 ../templates/dashboard/dashboard.php:151
+msgid "Send"
+msgstr "ارسال"
+
+#: ../inc/oometrics-class.php:485 ../templates/dashboard/dashboard.php:152
+msgid "Attach"
+msgstr ""
+
+#: ../inc/oometrics-class.php:506 ../templates/settings.php:124
+#: ../templates/settings.php:147 ../templates/settings.php:162
+msgid "Yes"
+msgstr "آری"
+
+#: ../inc/oometrics-class.php:507 ../templates/settings.php:125
+#: ../templates/settings.php:148 ../templates/settings.php:163
+msgid "No"
+msgstr "نه"
+
+#: ../inc/push-class.php:328
+msgid "close"
+msgstr "بستن"
+
+#: ../inc/push-class.php:352
+msgid "Please Login"
+msgstr "لطفا وارد شوید"
+
+#: ../inc/push-class.php:354 ../inc/push-class.php:367
+msgid "Username"
+msgstr "نام کاربری"
+
+#: ../inc/push-class.php:355 ../inc/push-class.php:368
+msgid "or Email"
+msgstr "یا ایمیل"
+
+#: ../inc/push-class.php:358 ../inc/push-class.php:371
+msgid "Password"
+msgstr "گذرواژه"
+
+#: ../inc/push-class.php:359 ../inc/push-class.php:372
+msgid "******"
+msgstr "******"
+
+#: ../inc/push-class.php:361
+msgid "Login"
+msgstr "ورود"
+
+#: ../inc/push-class.php:362
+msgid "or Register"
+msgstr "یا ثبت نام"
+
+#: ../inc/push-class.php:365
+msgid "Please Register"
+msgstr "لطفا ثبت نام کنید"
+
+#: ../inc/push-class.php:374
+msgid "Register"
+msgstr "ثبت نام"
+
+#: ../inc/push-class.php:375
+msgid "or Login"
+msgstr "یا ورود"
+
+#: ../inc/report-class.php:327
+msgid "mins"
+msgstr "دقیقه"
+
+#: ../inc/session-class.php:461
+msgid "WP Cronjob"
+msgstr "WP Cronjob"
+
+#: ../inc/session-class.php:669
+msgid "You"
+msgstr "شما"
+
+#: ../inc/session-class.php:746
+msgid "left"
+msgstr "مانده"
+
+#: ../oometrics.php:297
+msgid "For better shopping experience, we will collect none personal data..."
+msgstr ""
+"جهت ارائه تجربه خرید بهتر، ما اطلاعات  بازدیدهای شما را جمع آوری میکنیم..."
+
+#: ../templates/dashboard/chats/conversations.php:7
+msgid "Start chat or Push to session"
+msgstr "شروع گفتگو یا ارسال پوش"
+
+#: ../templates/dashboard/chats/profile-info.php:4
+msgid "No One Selected"
+msgstr "هیچ کس انتخاب نشده است"
+
+#: ../templates/dashboard/chats/profile-info.php:5
+msgid "Please select a session to start"
+msgstr "لطفا سژنی را جهت شروع انتخاب نمایید"
+
+#: ../templates/dashboard/chats/profile-info.php:6
+msgid "Location"
+msgstr "مکان"
+
+#: ../templates/dashboard/dashboard.php:22
+#, php-format
+msgid ""
+"ATTENTION! Some of the features may not work properly if you are not the "
+"main user, you can change the main user ID %s or login with that user!"
+msgstr ""
+
+#: ../templates/dashboard/dashboard.php:22
+msgid "Here"
+msgstr ""
+
+#: ../templates/dashboard/dashboard.php:35
+#: ../templates/dashboard/dashboard.php:85
+msgid "Choose a type"
+msgstr "انتخاب نوع"
+
+#: ../templates/dashboard/dashboard.php:36
+msgid "Product sale price"
+msgstr "تخفیف محصول"
+
+#: ../templates/dashboard/dashboard.php:37
+msgid "Apply a coupon"
+msgstr "اعمال کوپن"
+
+#: ../templates/dashboard/dashboard.php:38
+msgid "Open a popup"
+msgstr "باز کردن پاپ آپ"
+
+#: ../templates/dashboard/dashboard.php:43
+msgid "You need to choose a push type from the above to see the optoins"
+msgstr "شما باید نوع پوش خود را جهت نمایش گزینه های آن انتخاب کنید"
+
+#: ../templates/dashboard/dashboard.php:46
+msgid ""
+"You can push sales price to any products you chose and push it to the "
+"customer session. This push will only be visible for this session. No body "
+"else can see these changes!"
+msgstr ""
+"شما می توانید تخفیفات را برای هر محصول به سژن مشتری پوش نمایید. این پوش فقط "
+"برای او قابل نمایش خواهد بود، هیچ کس دیگر این تتظمات را نخواهد دید!"
+
+#: ../templates/dashboard/dashboard.php:49
+#: ../templates/dashboard/dashboard.php:175
+msgid "Product"
+msgstr "محصول"
+
+#: ../templates/dashboard/dashboard.php:50
+#: ../templates/dashboard/dashboard.php:176
+msgid "Type to search"
+msgstr "برای جستجو تایپ کنید"
+
+#: ../templates/dashboard/dashboard.php:55
+msgid "Discount amount"
+msgstr "مبلغ تخفیف"
+
+#: ../templates/dashboard/dashboard.php:57
+msgid "Price percent"
+msgstr "درصد تحفیف"
+
+#: ../templates/dashboard/dashboard.php:59
+msgid "You should fill only one item,percent or amount."
+msgstr "شما باید فقط یک آیتم را انتخاب نمایید؛ یا مبلغ یا درصد."
+
+#: ../templates/dashboard/dashboard.php:64
+msgid ""
+"These are WooCommerce coupons. You can add new one via WooCommerce Coupon "
+"Dashboard"
+msgstr ""
+"این ها کوپن های ووکامرس می باشد. جهت افزودن کوپن جدید از بخش داشبورد ووکامرس "
+"و کوپن ها استفاده نمایید."
+
+#: ../templates/dashboard/dashboard.php:65
+msgid "Coupon"
+msgstr "کوپن"
+
+#: ../templates/dashboard/dashboard.php:67
+msgid "Choose a coupon"
+msgstr "انتخاب کوپن"
+
+#: ../templates/dashboard/dashboard.php:83
+msgid "Popup type"
+msgstr "نوع محصول"
+
+#: ../templates/dashboard/dashboard.php:86
+msgid "Promotional"
+msgstr "تبلیغاتی"
+
+#: ../templates/dashboard/dashboard.php:87
+msgid "OOArea Widget Sidebar"
+msgstr "سایدبار OOArea"
+
+#: ../templates/dashboard/dashboard.php:88
+msgid "... From Templates"
+msgstr "... از قالب ها"
+
+#: ../templates/dashboard/dashboard.php:93
+#: ../templates/dashboard/dashboard.php:98
+msgid "Primary button label"
+msgstr "متن دکمه اصلی"
+
+#: ../templates/dashboard/dashboard.php:94
+msgid "call to action"
+msgstr "فراخوان اکشن"
+
+#: ../templates/dashboard/dashboard.php:95
+#: ../templates/dashboard/dashboard.php:100
+msgid "Primary button link"
+msgstr "لینک دکمه اصلی"
+
+#: ../templates/dashboard/dashboard.php:96
+#: ../templates/dashboard/dashboard.php:101
+msgid "http://"
+msgstr "http://"
+
+#: ../templates/dashboard/dashboard.php:99
+msgid "alternative action, read more"
+msgstr "اکشن فرعی، بیشتر"
+
+#: ../templates/dashboard/dashboard.php:102
+msgid "Save as template"
+msgstr "ذخیره به عنوان قالب"
+
+#: ../templates/dashboard/dashboard.php:104
+msgid "Give it a name..."
+msgstr "نامی به آن دهید..."
+
+#: ../templates/dashboard/dashboard.php:110
+msgid "This will use widget content of OOArea sidebar: "
+msgstr "این بخش ابزارک های سایدبار OOArea  را می خواند"
+
+#: ../templates/dashboard/dashboard.php:110
+msgid "Apppearance / Widgets"
+msgstr "Apppearance / Widgets"
+
+#: ../templates/dashboard/dashboard.php:120
+msgid "Choose a duration"
+msgstr "مدت زمان را انتخاب کنید"
+
+#: ../templates/dashboard/dashboard.php:121
+msgid "End of session"
+msgstr "تا اانتهای سژن"
+
+#: ../templates/dashboard/dashboard.php:122
+msgid "5 Minutes"
+msgstr "5 دقیقه"
+
+#: ../templates/dashboard/dashboard.php:123
+msgid " 10 Minutes"
+msgstr "10 دقیقه"
+
+#: ../templates/dashboard/dashboard.php:124
+msgid " 1 Hour"
+msgstr "1 ساعت"
+
+#: ../templates/dashboard/dashboard.php:130
+msgid "Push to the session"
+msgstr "پوش به سژن"
+
+#: ../templates/dashboard/dashboard.php:141
+msgid "You need to choose a session to start"
+msgstr "شما باید سژنی را جهت شروع انتخاب کنید"
+
+#: ../templates/dashboard/dashboard.php:142
+msgid "Pop new conversation"
+msgstr "گفتگوی جدید را آغاز کنید"
+
+#: ../templates/dashboard/dashboard.php:143
+msgid "Choose or start new"
+msgstr "ادامه گفتگو / گفتگوی تازه "
+
+#: ../templates/dashboard/dashboard.php:148
+msgid "Start typing"
+msgstr "بنویسید"
+
+#: ../templates/dashboard/dashboard.php:153
+msgid "Push to session"
+msgstr "پوش به سژن"
+
+#: ../templates/dashboard/dashboard.php:183
+msgid "Choose a session to show cart content"
+msgstr "سژنی را جهت نمایش محتویات سبد خرید انتخاب نمایید"
+
+#: ../templates/dashboard/dashboard.php:186
+msgid "Update changes"
+msgstr "ذخیره تغییرات"
+
+#: ../templates/dashboard/dashboard.php:187
+msgid "please be sure"
+msgstr "لطفا مطمئن باشید"
+
+#: ../templates/dashboard/dashboard.php:187
+msgid "customer may panick!"
+msgstr "مشتری شاید بترسد!"
+
+#: ../templates/dashboard/dashboard.php:187
+msgid "you can use chat to inform"
+msgstr "می توانید از چت به او بگویید"
+
+#: ../templates/dashboard/dashboard.php:224
+#: ../templates/reports/dashboard.php:59
+msgid "Get Started"
+msgstr "شروع کنید!"
+
+#: ../templates/dashboard/dashboard.php:225
+#: ../templates/reports/dashboard.php:60
+#: ../templates/reports/sidebar/footer.php:2
+msgid "Donate!"
+msgstr "Donate!"
+
+#: ../templates/dashboard/info/cart.php:7
+#: ../templates/reports/info/cart.php:10
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: ../templates/dashboard/info/cart.php:11
+#: ../templates/reports/info/cart.php:14
+msgid "Purchased"
+msgstr "خرید"
+
+#: ../templates/dashboard/info/digital-tab.php:3
+msgid "Choose a session to show details!"
+msgstr "سژنی را جهت نمایش جزئیات انتخاب کنید"
+
+#: ../templates/dashboard/info/digital-tab.php:6
+#: ../templates/reports/info/digital-tab.php:99
+msgid "Activities log"
+msgstr "لیست فعالیت ها"
+
+#: ../templates/dashboard/info/digital-tab.php:7
+#: ../templates/reports/info/digital-tab.php:100
+msgid "Session value"
+msgstr "ارزش سژن"
+
+#: ../templates/dashboard/info/digital-tab.php:13
+#: ../templates/reports/info/digital-tab.php:106
+msgid "Billing Info"
+msgstr "اطلاعات صورتحساب"
+
+#: ../templates/dashboard/info/digital-tab.php:16
+#: ../templates/dashboard/info/digital-tab.php:59
+#: ../templates/reports/info/digital-tab.php:109
+#: ../templates/reports/info/digital-tab.php:152
+msgid "First Name"
+msgstr "نام"
+
+#: ../templates/dashboard/info/digital-tab.php:17
+#: ../templates/dashboard/info/digital-tab.php:21
+#: ../templates/dashboard/info/digital-tab.php:25
+#: ../templates/dashboard/info/digital-tab.php:29
+#: ../templates/dashboard/info/digital-tab.php:33
+#: ../templates/dashboard/info/digital-tab.php:37
+#: ../templates/dashboard/info/digital-tab.php:41
+#: ../templates/dashboard/info/digital-tab.php:45
+#: ../templates/dashboard/info/digital-tab.php:49
+#: ../templates/dashboard/info/digital-tab.php:53
+#: ../templates/dashboard/info/digital-tab.php:60
+#: ../templates/dashboard/info/digital-tab.php:64
+#: ../templates/dashboard/info/digital-tab.php:68
+#: ../templates/dashboard/info/digital-tab.php:72
+#: ../templates/dashboard/info/digital-tab.php:76
+#: ../templates/dashboard/info/digital-tab.php:80
+#: ../templates/dashboard/info/digital-tab.php:84
+#: ../templates/dashboard/info/digital-tab.php:88
+#: ../templates/dashboard/info/digital-tab.php:97
+#: ../templates/dashboard/info/digital-tab.php:101
+#: ../templates/dashboard/info/digital-tab.php:105
+#: ../templates/dashboard/info/digital-tab.php:109
+#: ../templates/dashboard/info/digital-tab.php:117
+#: ../templates/dashboard/info/digital-tab.php:121
+#: ../templates/dashboard/info/digital-tab.php:125
+#: ../templates/reports/info/digital-tab.php:110
+#: ../templates/reports/info/digital-tab.php:114
+#: ../templates/reports/info/digital-tab.php:118
+#: ../templates/reports/info/digital-tab.php:122
+#: ../templates/reports/info/digital-tab.php:126
+#: ../templates/reports/info/digital-tab.php:130
+#: ../templates/reports/info/digital-tab.php:134
+#: ../templates/reports/info/digital-tab.php:138
+#: ../templates/reports/info/digital-tab.php:142
+#: ../templates/reports/info/digital-tab.php:146
+#: ../templates/reports/info/digital-tab.php:153
+#: ../templates/reports/info/digital-tab.php:157
+#: ../templates/reports/info/digital-tab.php:161
+#: ../templates/reports/info/digital-tab.php:165
+#: ../templates/reports/info/digital-tab.php:169
+#: ../templates/reports/info/digital-tab.php:173
+#: ../templates/reports/info/digital-tab.php:177
+#: ../templates/reports/info/digital-tab.php:181
+msgid "?"
+msgstr "?"
+
+#: ../templates/dashboard/info/digital-tab.php:20
+#: ../templates/dashboard/info/digital-tab.php:63
+#: ../templates/reports/info/digital-tab.php:113
+#: ../templates/reports/info/digital-tab.php:156
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: ../templates/dashboard/info/digital-tab.php:24
+#: ../templates/dashboard/info/digital-tab.php:67
+#: ../templates/reports/info/digital-tab.php:117
+#: ../templates/reports/info/digital-tab.php:160
+msgid "Company"
+msgstr "شرکت"
+
+#: ../templates/dashboard/info/digital-tab.php:28
+#: ../templates/reports/info/digital-tab.php:121
+msgid "Phone"
+msgstr "تلفن"
+
+#: ../templates/dashboard/info/digital-tab.php:32
+#: ../templates/reports/info/digital-tab.php:125
+msgid "Email"
+msgstr "ایمیل"
+
+#: ../templates/dashboard/info/digital-tab.php:36
+#: ../templates/dashboard/info/digital-tab.php:71
+#: ../templates/reports/info/digital-tab.php:129
+#: ../templates/reports/info/digital-tab.php:164
+msgid "Country"
+msgstr "کشور"
+
+#: ../templates/dashboard/info/digital-tab.php:40
+#: ../templates/dashboard/info/digital-tab.php:75
+#: ../templates/reports/info/digital-tab.php:133
+#: ../templates/reports/info/digital-tab.php:168
+msgid "State"
+msgstr "استان"
+
+#: ../templates/dashboard/info/digital-tab.php:44
+#: ../templates/dashboard/info/digital-tab.php:79
+#: ../templates/reports/info/digital-tab.php:137
+#: ../templates/reports/info/digital-tab.php:172
+msgid "City"
+msgstr "شهر"
+
+#: ../templates/dashboard/info/digital-tab.php:48
+#: ../templates/dashboard/info/digital-tab.php:83
+#: ../templates/reports/info/digital-tab.php:141
+#: ../templates/reports/info/digital-tab.php:176
+msgid "Address 1"
+msgstr "آدرس 1"
+
+#: ../templates/dashboard/info/digital-tab.php:52
+#: ../templates/dashboard/info/digital-tab.php:87
+#: ../templates/reports/info/digital-tab.php:145
+#: ../templates/reports/info/digital-tab.php:180
+msgid "Address 2"
+msgstr "آدرس 2"
+
+#: ../templates/dashboard/info/digital-tab.php:56
+#: ../templates/reports/info/digital-tab.php:149
+msgid "Shipping Info"
+msgstr "اطلاعات ارسال"
+
+#: ../templates/dashboard/info/digital-tab.php:93
+#: ../templates/reports/info/digital-tab.php:186
+msgid "Device info"
+msgstr "نوع دستگاه"
+
+#: ../templates/dashboard/info/digital-tab.php:96
+#: ../templates/reports/info/digital-tab.php:189
+msgid "Type"
+msgstr "نوع"
+
+#: ../templates/dashboard/info/digital-tab.php:100
+#: ../templates/reports/info/digital-tab.php:193
+msgid "Brand"
+msgstr "برند"
+
+#: ../templates/dashboard/info/digital-tab.php:104
+#: ../templates/reports/info/digital-tab.php:197
+msgid "Browser"
+msgstr "مرورگر"
+
+#: ../templates/dashboard/info/digital-tab.php:108
+#: ../templates/reports/info/digital-tab.php:201
+msgid "Resolution"
+msgstr "رزولوشن"
+
+#: ../templates/dashboard/info/digital-tab.php:113
+#: ../templates/reports/info/digital-tab.php:206
+msgid "Connection info"
+msgstr "اطلاعات کانکشن"
+
+#: ../templates/dashboard/info/digital-tab.php:116
+#: ../templates/reports/info/digital-tab.php:209
+msgid "IP"
+msgstr "آی پی"
+
+#: ../templates/dashboard/info/digital-tab.php:120
+#: ../templates/reports/info/digital-tab.php:213
+msgid "Referrer"
+msgstr "ارجاع دهنده"
+
+#: ../templates/dashboard/info/digital-tab.php:124
+msgid "$_SERVER"
+msgstr "$_SERVER"
+
+#: ../templates/dashboard/info/header.php:5
+#: ../templates/reports/info/header.php:14
+msgid "Customer Activities"
+msgstr "فعالیت های مشتری"
+
+#: ../templates/dashboard/info/header.php:11
+#: ../templates/reports/info/header.php:20
+msgid "Customer Profile"
+msgstr "پروفایل مشتری"
+
+#: ../templates/dashboard/info/header.php:17
+#: ../templates/reports/info/header.php:26
+msgid "Digital Profile"
+msgstr "پروفایل دیجیتال"
+
+#: ../templates/dashboard/sidebar/body.php:6
+msgid "Live"
+msgstr "تازگی"
+
+#: ../templates/dashboard/sidebar/body.php:7
+msgid "Value"
+msgstr "ارزش"
+
+#: ../templates/dashboard/sidebar/body.php:8
+msgid "Intelligence"
+msgstr "هوش"
+
+#: ../templates/dashboard/sidebar/footer.php:2
+msgid "Refresh sessions"
+msgstr "ریفرش سژن"
+
+#: ../templates/dashboard/sidebar/header.php:4
+#: ../templates/reports/chats/profile-info.php:21
+msgid "Sales"
+msgstr "فروش"
+
+#: ../templates/dashboard/sidebar/header.php:9
+msgid "Online"
+msgstr "آنلاین"
+
+#: ../templates/dashboard/sidebar/header.php:13
+msgid "Users"
+msgstr "کاربران"
+
+#: ../templates/dashboard/sidebar/header.php:17
+msgid "Views"
+msgstr "بازدیدها"
+
+#: ../templates/reports/chats/profile-info.php:26
+msgid "Sessions"
+msgstr "سژن ها"
+
+#: ../templates/reports/chats/profile-info.php:30
+msgid "Unique"
+msgstr "یکتا"
+
+#: ../templates/reports/chats/profile-info.php:34
+msgid "Orders"
+msgstr "سفارشات"
+
+#: ../templates/reports/chats/profile-info.php:42
+msgid "Last hour"
+msgstr "ساعت پیش"
+
+#: ../templates/reports/chats/profile-info.php:43
+msgid "Today"
+msgstr "امروز"
+
+#: ../templates/reports/chats/profile-info.php:44
+msgid "Yesterday"
+msgstr "دیروز"
+
+#: ../templates/reports/chats/profile-info.php:45
+msgid "Last week"
+msgstr "هفته پیش"
+
+#: ../templates/reports/chats/profile-info.php:46
+msgid "Last month"
+msgstr "ماه پیش"
+
+#: ../templates/reports/chats/profile-info.php:47
+msgid "Last 3 month"
+msgstr "3 ماه پیش"
+
+#: ../templates/reports/chats/profile-info.php:48
+msgid "Last year"
+msgstr "سال پیش"
+
+#: ../templates/reports/chats/profile-info.php:49
+msgid "Custom"
+msgstr "دلخواه"
+
+#: ../templates/reports/chats/profile-info.php:55
+msgid "Start date"
+msgstr "زمان شروع"
+
+#: ../templates/reports/chats/profile-info.php:58
+msgid "End date"
+msgstr "زمان پایان"
+
+#: ../templates/reports/chats/profile-info.php:60
+msgid "Go"
+msgstr "برو"
+
+#: ../templates/reports/dashboard.php:55
+msgid "Overview"
+msgstr "نگاه کوتاه"
+
+#: ../templates/reports/info/digital-tab.php:6
+msgid "Session With"
+msgstr "سژن با"
+
+#: ../templates/reports/info/digital-tab.php:9
+msgid "Cart activity"
+msgstr "فعالیت سبد خرید"
+
+#: ../templates/reports/info/digital-tab.php:13
+msgid "Chats activity"
+msgstr "فعالیت گفتگو"
+
+#: ../templates/reports/info/digital-tab.php:17
+msgid "Checkout"
+msgstr "پرداخت"
+
+#: ../templates/reports/info/digital-tab.php:21
+msgid "Pushes"
+msgstr "پوش ها"
+
+#: ../templates/reports/info/digital-tab.php:24
+msgid "Successful Sessions with Push"
+msgstr "سژن های پوش موفق"
+
+#: ../templates/reports/info/digital-tab.php:28
+msgid "Discounts"
+msgstr "تخفیفات"
+
+#: ../templates/reports/info/digital-tab.php:32
+msgid "Coupons"
+msgstr "کوپن ها"
+
+#: ../templates/reports/info/digital-tab.php:36
+msgid "Popups"
+msgstr "پاپ آپ ها"
+
+#: ../templates/reports/info/digital-tab.php:40
+msgid "Delivered Popups"
+msgstr "پاپ آپ های رسیده "
+
+#: ../templates/reports/info/digital-tab.php:44
+msgid "Clicked Popups"
+msgstr "پاپ آپ های کلیک شده"
+
+#: ../templates/reports/info/digital-tab.php:49
+msgid "Session Duration"
+msgstr "زمان سژن"
+
+#: ../templates/reports/info/digital-tab.php:52
+msgid "10+ Minutes"
+msgstr "10+ دقیقه"
+
+#: ../templates/reports/info/digital-tab.php:56
+msgid "5 - 10 Minutes"
+msgstr "5-10 دقیقه"
+
+#: ../templates/reports/info/digital-tab.php:60
+msgid "1 - 5 Minutes"
+msgstr "1-5 دقیقه"
+
+#: ../templates/reports/info/digital-tab.php:64
+msgid "Less than 1 Minute"
+msgstr "کنتر از 1 دقیقه"
+
+#: ../templates/reports/info/digital-tab.php:68
+msgid "Less than 30 Seconds"
+msgstr "کمتر از 30 ثانیه"
+
+#: ../templates/reports/info/digital-tab.php:72
+msgid "Session Calculations"
+msgstr "محاسبات سژن"
+
+#: ../templates/reports/info/digital-tab.php:75
+msgid "Average session Value"
+msgstr "میانگین ارزش سژن"
+
+#: ../templates/reports/info/digital-tab.php:79
+msgid "Average Duration"
+msgstr "میانگین زمان"
+
+#: ../templates/reports/info/digital-tab.php:83
+msgid "Average Activities"
+msgstr "میانگین تعداد فعالیت"
+
+#: ../templates/reports/info/digital-tab.php:87
+msgid "Mobile Devices"
+msgstr "موبایل"
+
+#: ../templates/reports/info/digital-tab.php:91
+msgid "Desktop Devices"
+msgstr "دسکتاپ"
+
+#: ../templates/reports/info/digital-tab.php:190
+msgid "Mobile"
+msgstr "موبایل"
+
+#: ../templates/reports/info/digital-tab.php:194
+msgid "Apple"
+msgstr "Apple"
+
+#: ../templates/reports/info/digital-tab.php:198
+msgid "Chrome"
+msgstr "Chrome"
+
+#: ../templates/reports/info/digital-tab.php:202
+msgid "1920x1080"
+msgstr "1920x1080"
+
+#: ../templates/reports/info/digital-tab.php:210
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+#: ../templates/reports/info/digital-tab.php:214
+msgid "-"
+msgstr "-"
+
+#: ../templates/reports/info/header.php:8
+msgid "Activities"
+msgstr "فعالیت ها"
+
+#: ../templates/reports/sidebar/body.php:7
+msgid "Insights"
+msgstr ""
+
+#: ../templates/reports/sidebar/body.php:8
+msgid "... will be here soon"
+msgstr ""
+
+#: ../templates/reports/sidebar/body.php:9
+msgid ""
+"You have tasted Google Analytics! So its hard to keep up with analytics "
+"monsters like this in order to keep you happy! but it takes time to adapt to "
+"OOMetrics!"
+msgstr ""
+
+#: ../templates/reports/sidebar/body.php:10
+msgid ""
+"You can help keeping it alive or even better! We have lots of ideas and "
+"features ready. Your help can build them sooner!"
+msgstr ""
+
+#: ../templates/reports/sidebar/body.php:11
+msgid " Then, you will have your own monster who only trusts you!"
+msgstr ""
+
+#: ../templates/settings.php:13
+msgid "OOMetrics Settings"
+msgstr "تنظیمات اوومتریکس"
+
+#: ../templates/settings.php:20
+msgid "Essesntial Settings"
+msgstr "تنظیمات اولیه"
+
+#: ../templates/settings.php:21
+msgid "Customize more to collect your real feedback!"
+msgstr "بیشتر تنظیم کنید تا داده های واقعی تر بیابید"
+
+#: ../templates/settings.php:26
+msgid "Main User"
+msgstr "کاربر اصلی"
+
+#: ../templates/settings.php:29
+msgid "Choose an admin"
+msgstr "مدیر انتخاب کنید"
+
+#: ../templates/settings.php:42
+msgid "Admin interval"
+msgstr "زمان تایمر آپدیت ادمین"
+
+#: ../templates/settings.php:47
+msgid "Chat interval"
+msgstr "زمان تایمر آپدیت چت"
+
+#: ../templates/settings.php:52
+msgid "Session interval"
+msgstr "زمان تایمر آپدیت سژن مشتری"
+
+#: ../templates/settings.php:55
+msgid "It should be less than chat interval like if chat"
+msgstr ""
+
+#: ../templates/settings.php:60
+msgid "Session lifetime (seconds)"
+msgstr "عمر سژن (ثانیه)"
+
+#: ../templates/settings.php:63
+msgid ""
+"Session lifetime will be calculated base on your server configurations. This "
+"lifetime can be set manually; It is common to use 300 (5 minutes)"
+msgstr ""
+"طول عمر سژن بر اساس تنظیمات سرور اتومات دریافت می شود؛ اما می توانید آن را "
+"تغییر دهید بدون اینکه سرور را دستکاری کنید. این عدد معمولا 300 ثانیه است"
+
+#: ../templates/settings.php:69
+msgid "User Interface"
+msgstr "واسط کاربری"
+
+#: ../templates/settings.php:70
+msgid "You can set your interface options here"
+msgstr "تنظیمات واسط کاربری شما "
+
+#: ../templates/settings.php:74
+msgid "Welcome Message"
+msgstr "پیام خوش آمد گویی"
+
+#: ../templates/settings.php:77
+msgid "A small text in chat content"
+msgstr "متنی کوتاه"
+
+#: ../templates/settings.php:81
+msgid "Chat open icon"
+msgstr "آیکون چت حالت باز"
+
+#: ../templates/settings.php:84
+msgid "The icon image URL when chat is closed.  SVG format recommended"
+msgstr "آدرس تصویر آیکون چت وقتی چت بسته است"
+
+#: ../templates/settings.php:88
+msgid "Chat close icon"
+msgstr "آیکون چت حالت بسته"
+
+#: ../templates/settings.php:91
+msgid "The icon image URL when chat is opened.  SVG format recommended"
+msgstr "آدرس تصویر آیکون چت وقتی چت باز است"
+
+#: ../templates/settings.php:95
+msgid "Icon Position"
+msgstr "مکان آیکون"
+
+#: ../templates/settings.php:98
+msgid "Bottom Left"
+msgstr "پاین چپ"
+
+#: ../templates/settings.php:99
+msgid "Bottom Right"
+msgstr "پاین راست"
+
+#: ../templates/settings.php:100
+msgid "Top Left"
+msgstr "بالا چپ"
+
+#: ../templates/settings.php:101
+msgid "Top Right"
+msgstr "بالا راست"
+
+#: ../templates/settings.php:106
+msgid "Icon vertical and horizontal distance"
+msgstr "فاصله افقی و عمودی آیکون"
+
+#: ../templates/settings.php:110
+msgid "Vertical"
+msgstr "عمودی"
+
+#: ../templates/settings.php:111 ../templates/settings.php:115
+msgid "Use with units like 30px, 2rem, 3em and ..."
+msgstr "با واحد وارد کنید 30px, 2rem, 3em and ..."
+
+#: ../templates/settings.php:114
+msgid "Horizontal"
+msgstr "افقی"
+
+#: ../templates/settings.php:121
+msgid "Enable Chat?"
+msgstr "فعالسازی چت؟"
+
+#: ../templates/settings.php:130
+msgid "Admin Chat reply text eidtor?"
+msgstr "ادیتور چت ادمین"
+
+#: ../templates/settings.php:133
+msgid "tinyMCE"
+msgstr "tinyMCE"
+
+#: ../templates/settings.php:134
+msgid "simple"
+msgstr "ساده"
+
+#: ../templates/settings.php:140
+msgid "Add Filters"
+msgstr "افزودن فیلتر"
+
+#: ../templates/settings.php:141
+msgid ""
+"Currently bots/crawlers, internal requests like cronjobs and unknown visits "
+"are filtering by OOMetrics, soon there will be an option to activate or "
+"deactivate manually!"
+msgstr ""
+"در حال حاضر خزنده/بات ها، درخواست ها داخلی همچون cron، , برخی از بازدیدهای "
+"توسط اوومتریکس فیلتر می شوند. به زودی گزینه ای جهت فعال/غیرفعال کردن آن "
+"خواهد آمد"
+
+#: ../templates/settings.php:144
+msgid ""
+"Remove Zero Value Sessions (like most bots and failures; For more real data)?"
+msgstr ""
+"حذف سژن ها ارزش 0 (مانند برخی از ربات های ناشناس، یا خطاها ... جهت اطلاعات "
+"دقیق تر)"
+
+#: ../templates/settings.php:155
+msgid "Privacy"
+msgstr "حریم شخصی"
+
+#: ../templates/settings.php:156
+msgid "For your users privacy"
+msgstr "برای حریم شخصی مشتریانتان"
+
+#: ../templates/settings.php:159
+msgid "Notify them about tracking"
+msgstr "از جمع آوری داده هایشان به آن ها بگویید"
+
+#: ../templates/settings.php:168
+msgid "The message"
+msgstr "این پیام"
+
+#: ../templates/settings.php:176
+msgid "Back to"
+msgstr "بازگشت به"
+
+#: ../templates/settings.php:176
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: ../templates/settings.php:181
+msgid "Save"
+msgstr "ذخیره"
+
+#~ msgid "Customer info"
+#~ msgstr "مشخصات مشتری"
+
+#~ msgid "Edit"
+#~ msgstr "ویرایش"
+
+#~ msgid "Published"
+#~ msgstr "آنلاین"
+
+#~ msgid "Pending"
+#~ msgstr "در حال بازبینی"
+
+#~ msgid "Draft"
+#~ msgstr "پیش نویس"
+
+#~ msgid "Trash"
+#~ msgstr "زباله دان"
+
+#~ msgid "No announcement found."
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Social Profiles"
+#~ msgstr "شبکه های اجتماعی"
+
+#~ msgid "Zone Name"
+#~ msgstr "نام محدوده"
+
+#~ msgid "Region(s)"
+#~ msgstr "نواحی"
+
+#~ msgid "Shipping Method"
+#~ msgstr "روش حمل و نقل"
+
+#~ msgid "No method found"
+#~ msgstr "روشی پیدا نشد"
+
+#~ msgid "Add Shipping Method"
+#~ msgstr "روش حمل و نقل اضافه کنید"
+
+#~ msgid ""
+#~ "No shipping zone found for configuration. Please contact with admin for "
+#~ "manage your store shipping"
+#~ msgstr ""
+#~ "محدوده حمل و نقلی تعریف نشده است. لطفا با مدیریت تماس بگیرید و سیستم حمل "
+#~ "و نقل شما را تنظیم کنند."
+
+#~ msgid "Cost"
+#~ msgstr "هزینه"
+
+#~ msgid "No Announcement found"
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "Clear All"
+#~ msgstr "پاک کردن همه"
+
+#~ msgid "Clear"
+#~ msgstr "پاک کردن"
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#~ msgid "Visible on the product page"
+#~ msgstr "نمایش در صفحه کادو"
+
+#~ msgid "Used for variations"
+#~ msgstr "استفاده برای تنوع دادن به کادو"
+
+#~ msgid "Option..."
+#~ msgstr "گزینه ها..."
+
+#~ msgid "Coupon has been deleted successfully!"
+#~ msgstr "کوپن شما با موفقیت حذف شد"
+
+#~ msgid "Coupon has been saved successfully!"
+#~ msgstr "کوپن شما با موفقیت ذخیره شد"
+
+#~ msgid "Coupon has been updated successfully!"
+#~ msgstr "کوپن شما با موفقیت به روزرسانی شد"
+
+#~ msgid "No coupons found!"
+#~ msgstr "کوپنی پیدا نشد!"
+
+#~ msgid "Percentage"
+#~ msgstr "درصد"
+
+#~ msgid "Flat"
+#~ msgstr "نرخ ثابت"
+
+#~ msgid "Duplicate"
+#~ msgstr "کپی کردن"
+
+#~ msgid "Simple"
+#~ msgstr "ساده"
+
+#~ msgid "Variable"
+#~ msgstr "متنوع"
+
+#~ msgid "Group Product"
+#~ msgstr "کادو گروه شده"
+
+#~ msgid "Pending Reivew"
+#~ msgstr "در حال بررسی"
+
+#~ msgid "Accepted"
+#~ msgstr "تایید شده"
+
+#~ msgid "Order"
+#~ msgstr "سفارش"
+
+#~ msgid "Withdraw"
+#~ msgstr "درخواست وجه"
+
+#~ msgid "Refund"
+#~ msgstr "بازگرداندن"
+
+#~ msgid "Shipping"
+#~ msgstr "ارسال"
+
+#~ msgid "Social Profile"
+#~ msgstr "شبکه های اجتماعی"
+
+#~ msgid "Store SEO"
+#~ msgstr "سئو فروشگاه"
+
+#~ msgid "Shipping Settings"
+#~ msgstr "تنظیمات حمل و نقل"
+
+#~ msgid ""
+#~ "Social profiles help you to gain more trust. Consider adding your social "
+#~ "profile links for better user interaction."
+#~ msgstr ""
+#~ "شبکه های اجتماعی به جلب اعتماد مشتریانتان می افزاید. جهت ارتباط بهتر با "
+#~ "مشتریان خود لینک شبکه های اجتماعی خود را جهت نمایش در صفحه پروفایل خود "
+#~ "وارد نمایید"
+
+#~ msgid ""
+#~ "A shipping zone is a geographic region where a certain set of shipping "
+#~ "methods are offered. We will match a customer to a single zone using "
+#~ "their shipping address and present the shipping methods within that zone "
+#~ "to them."
+#~ msgstr ""
+#~ "محدوده حمل و نقل یک منطقه جغرافیایی است که روش های حمل و نقل خاص خود را "
+#~ "ارائه می دهد. ما هر مشتری را با یک روش بر اساس آدرس ارسال او تطابق می "
+#~ "دهیم و روش ارسال مرتبط با آن را در محدوده تعریف شده ارائه می دهیم."
+
+#~ msgid "If you want to use the previous shipping system then"
+#~ msgstr "اگر شما حمل و نقل های به سیستم قدیمی را می خواهید پس"
+
+#~ msgid "Click Here"
+#~ msgstr "اینجا کلیک کنید"
+
+#~ msgid ""
+#~ "This page contains your store-wide shipping settings, costs, shipping and "
+#~ "refund policy."
+#~ msgstr ""
+#~ "این صفحه تنظیمات سراسری حمل و نقل فروشگاه شما را شامل می شود مانند هزینه، "
+#~ "نحوه ارسال و سیاست های بازگشت کالا"
+
+#~ msgid ""
+#~ "You can enable/disable shipping for your products. Also you can override "
+#~ "these shipping costs while creating or editing a product."
+#~ msgstr "شما می توانید حمل و نقل را برای هر کادو خود فعال / غیرفعال کنید"
+
+#~ msgid "If you want to configure zone wise shipping then"
+#~ msgstr "اگر می خواهید حمل و نقل بر اساس محدوده را داشته باشید پس"
+
+#~ msgid "Add Profile Picture to gain %s%% progress"
+#~ msgstr "افزودن عکس پروفایل %s%% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add %s profile link to gain %s%% progress"
+#~ msgstr "افزودن %s لینک پروفایل %s %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Phone to gain %s%% progress"
+#~ msgstr "افزودن تلفن %s  %%پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Banner to gain %s%% progress"
+#~ msgstr "افزودن عکس بنر فروشگاه %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Store Name to gain %s%% progress"
+#~ msgstr "افزودن نام فروشگاه %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add address to gain %s%% progress"
+#~ msgstr "افزودن آدرس %s %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add a Payment method to gain %s%% progress"
+#~ msgstr "افزودن روش پرداخت %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "Add Map location to gain %s%% progress"
+#~ msgstr "افزودن مکان نقشه %s  %% پروفایل شما را تکمیل ترمیکند"
+
+#~ msgid "This product does not ship to your chosen location: %s"
+#~ msgstr "این کادو امکان ارسال به محل انتخابی شما را ندارد: %s"
+
+#~ msgid "These products do not ship to your chosen location.: %s"
+#~ msgstr "این کادوها امکان ارسال به محل انتخابی شما را ندارد: %s"
+
+#~ msgid "You have no access to save this shipping options"
+#~ msgstr "شما دسترسی لازم جهت ذخیره سازی این حمل و نقل را ندارید"
+
+#~ msgid "Ready to ship in"
+#~ msgstr "آماده ارسال به"
+
+#~ msgid "from"
+#~ msgstr "از"
+
+#~ msgid "Shipping Policy"
+#~ msgstr "سیاست های ارسال"
+
+#~ msgid "Refund Policy"
+#~ msgstr "سیاست های بازگشت کالا"
+
+#~ msgid "Enable Shipping"
+#~ msgstr "فعال سازی حمل و نقل"
+
+#~ msgid "Processing Time"
+#~ msgstr "زمان تحویل"
+
+#~ msgid "%s Discount"
+#~ msgstr "%s تخفیف"
+
+#~ msgid "Coupon Code: <strong>%s</strong>"
+#~ msgstr "کد کوپن: <strong>%s</strong>"
+
+#~ msgid "Expiring in %s"
+#~ msgstr "اعتبار تا %s"
+
+#~ msgid "Updates"
+#~ msgstr "به روزرسانی ها"
+
+#~ msgid "Tools"
+#~ msgstr "ابزارها"
+
+#~ msgid "Completed"
+#~ msgstr "تکمیل شده"
+
+#~ msgid "Processing"
+#~ msgstr "در حال انجام"
+
+#~ msgid "On-hold"
+#~ msgstr "در انتظار بررسی"
+
+#~ msgid "Order Total"
+#~ msgstr "جمع کل سفارش"
+
+#~ msgid "No Announcement Found"
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "All"
+#~ msgstr "همه "
+
+#~ msgid "Shop Name"
+#~ msgstr "نام فروشگاه (به فارسی)"
+
+#~ msgid "Phone Number"
+#~ msgstr "شماره تلفن "
+
+#~ msgid "No announcement found"
+#~ msgstr "اعلانیه پیدا نشد"
+
+#~ msgid "Attribute"
+#~ msgstr "ویژگی"
+
+#~ msgid "Manage attributes"
+#~ msgstr "مدیریت ویژگی ها"
+
+#~ msgid "Custom Attribute"
+#~ msgstr "ویژگی دلخواه"
+
+#~ msgid "Add attribute"
+#~ msgstr "افزودن ویژگی"
+
+#~ msgid "Save attribute"
+#~ msgstr "ذخیره ویژگی"
+
+#~ msgid "Product Status"
+#~ msgstr "وضعیت کادو"
+
+#~ msgid "Visibility"
+#~ msgstr "وسعت نمایش"
+
+#~ msgid "Purchase Note"
+#~ msgstr "یادداشت قبل از خرید"
+
+#~ msgid "Customer will get this info in their order email"
+#~ msgstr "مشتریان این اطلاعات را در ایمیل خریدشان دریافت میکنند."
+
+#~ msgid "Enable product reviews"
+#~ msgstr "فعالسازی نقد و بررسی برای این کادو"
+
+#~ msgid "Shipping and Tax"
+#~ msgstr "حمل و نقل و مالیات"
+
+#~ msgid "Manage shipping and tax for this product"
+#~ msgstr "ارسال های عمومی به این روش حمل و نقل افزوده خواهد شد"
+
+#~ msgid "This product requires shipping"
+#~ msgstr "این کادو مستقیما از این فروشگاه ارسال می شود"
+
+#~ msgid "weight (%s)"
+#~ msgstr "وزن (%s)"
+
+#~ msgid "length (%s)"
+#~ msgstr "طول (%s)"
+
+#~ msgid "width (%s)"
+#~ msgstr "عرض(%s)"
+
+#~ msgid "height (%s)"
+#~ msgstr "ارتفاع(%s)"
+
+#~ msgid "Shipping Class"
+#~ msgstr "کلاس حمل و نقل"
+
+#~ msgid "No shipping class"
+#~ msgstr "کلاس حمل و نقلی وجود ندارد"
+
+#~ msgid ""
+#~ "Shipping classes are used by certain shipping methods to group similar "
+#~ "products."
+#~ msgstr ""
+#~ "کلاس های حمل و نقل برای حمل و نقل هایی تعیین شده برای گروهی از کادوها می "
+#~ "باشد"
+
+#~ msgid "Override your store's default shipping cost for this product"
+#~ msgstr ""
+#~ "مبلغ پیش فرض فروشگاه را برای حمل و نقل این کادو با این تنظیمات جایگزین کن"
+
+#~ msgid "Additional cost"
+#~ msgstr "هزینه اضافی"
+
+#~ msgid "Per Qty Additional Price"
+#~ msgstr "قیمت اضافی برای هر تعداد"
+
+#~ msgid "Shipping only"
+#~ msgstr "حمل نقل فقط به "
+
+#~ msgctxt "Tax status"
+#~ msgid "None"
+#~ msgstr "هیچ کدام"
+
+#~ msgid "Tax Class"
+#~ msgstr "کلاس مالیات"
+
+#~ msgid "All (%d)"
+#~ msgstr "همه (%d)"
+
+#~ msgid " (%d)"
+#~ msgstr "(%d)"
+
+#~ msgid "Booking Status"
+#~ msgstr "وضعیت رزرو"
+
+#~ msgid "Booked Product"
+#~ msgstr "کادو رزرو شده"
+
+#~ msgid "Customer"
+#~ msgstr "مشتری"
+
+#~ msgid "Update"
+#~ msgstr "ذخیره "
+
+#~ msgid "Address:"
+#~ msgstr "آدرس:"
+
+#~ msgid "Category"
+#~ msgstr "دسته بندی"
+
+#~ msgid "Select product category"
+#~ msgstr "دسته بندی کادو را انتخاب کنید"
+
+#~ msgid "Import"
+#~ msgstr "ایمپورت"
+
+#~ msgid "Export"
+#~ msgstr "اکسپورت"
+
+#~ msgid "Upsells"
+#~ msgstr "فروش همزمان"
+
+#~ msgid "Cross-sells"
+#~ msgstr "فروش تقاطعی"
+
+#~ msgid "Inbox"
+#~ msgstr "اینباکس"
+
+#~ msgctxt "ekado"
+#~ msgid "Vacation"
+#~ msgstr "تعطیلات"
+
+#~ msgid "Vacation <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Vacation <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "تعطیلات <span class=\"count\">(%s)</span>"
+
+#~ msgid "-- Select --"
+#~ msgstr "-- انتخاب --"
+
+#~ msgid "Instantly Close"
+#~ msgstr "بستن ناگهانی"
+
+#~ msgid "Date Wise Close"
+#~ msgstr "بستن زمان دار"
+
+#~ msgid "Go to Vacation"
+#~ msgstr "رفتن به تعطیلات"
+
+#~ msgid "Want to go vacation by closing our store publically"
+#~ msgstr "می خواهید به تعطیلات بروید، بستن فروشگاه برای عموم"
+
+#~ msgid "Closing Style"
+#~ msgstr "استایل بستن "
+
+#~ msgid "Date Range"
+#~ msgstr "محدوده زمانی"
+
+#~ msgid "From"
+#~ msgstr "از "
+
+#~ msgid "Set Vacation Message"
+#~ msgstr "پیام تعطیلات را بنویسید"
+
+#~ msgid "Vacation (%d)"
+#~ msgstr "تعطیلات (%d)"
+
+#~ msgid "In vacation"
+#~ msgstr "در تعطیلات"
+
+#~ msgid "Value(s)"
+#~ msgstr "مقادیر"
+
+#~ msgid "Select terms"
+#~ msgstr "انتخاب "
+
+#~ msgid "Select all"
+#~ msgstr "انتخاب همه"
+
+#~ msgid "Select none"
+#~ msgstr "انتخاب هیچکدام"
+
+#~ msgid "Category :"
+#~ msgstr "دسته بندی:"
+
+#~ msgid "Category: "
+#~ msgstr "دسته بندی:"
+
+#~ msgid "Address"
+#~ msgstr "آدرس کامل"
+
+#~ msgid "Upload Photo"
+#~ msgstr "آپلود عکس"
+
+#~ msgid "Sales by day"
+#~ msgstr "فروش روزانه"
+
+#~ msgid "Top selling"
+#~ msgstr "پر فروش ترین ها"
+
+#~ msgid "Top earning"
+#~ msgstr "پر درآمدترین ها"
+
+#~ msgid "Statement"
+#~ msgstr "بیانیه"
+
+#~ msgid "Export All"
+#~ msgstr "اکسپورت همه"
+
+#~ msgid "Opening Balance"
+#~ msgstr "اعتبار اولیه"
+
+#~ msgid "Total :"
+#~ msgstr "مجموع"
+
+#~ msgid "No Result found!"
+#~ msgstr "نتیجه ای پیدا نشد"
+
+#~ msgid "This month's sales"
+#~ msgstr "فروش این ماه"
+
+#~ msgid "Sales in this period"
+#~ msgstr "فروش در این دوره"
+
+#~ msgid "%s sales in this period"
+#~ msgstr "%s فروش در این دوره"
+
+#~ msgid "%s average daily sales"
+#~ msgstr "%s میانگین فروش روزانه"
+
+#~ msgid "%s orders placed"
+#~ msgstr "%s سفارش ثبت شده"
+
+#~ msgid "%s items purchased"
+#~ msgstr "%s آیتم خریداری شده"
+
+#~ msgid "%s charged for shipping"
+#~ msgstr "%s هزینه حمل و نقل"
+
+#~ msgid "%s worth of coupons used"
+#~ msgstr "%s ارزش کوپن ها"
+
+#~ msgid "Sales total"
+#~ msgstr "مجموع فروش"
+
+#~ msgid "Number of orders"
+#~ msgstr "تعداد سفارشات"
+
+#~ msgid "sales"
+#~ msgstr "فروش"
+
+#~ msgid "Product does not exist"
+#~ msgstr "کادو وجود ندارد"
+
+#~ msgid "Earning"
+#~ msgstr "درآمد"
+
+#~ msgid "Shipping: "
+#~ msgstr "حمل و نقل:"
+
+#~ msgid "Coupon Title"
+#~ msgstr "نام کوپن"
+
+#~ msgid "Discount Type"
+#~ msgstr "نوع تخفیف"
+
+#~ msgid "Product Discount"
+#~ msgstr "تخفیف کادو"
+
+#~ msgid "Product % Discount"
+#~ msgstr "تخفیف درصدی کادو"
+
+#~ msgid "Email Restrictions"
+#~ msgstr "محدودیت براساس ایمیل"
+
+#~ msgid "Email restrictions"
+#~ msgstr "محدودیت براساس ایمیل"
+
+#~ msgid "Usage Limit"
+#~ msgstr "محدودیت استفاده"
+
+#~ msgid "Expire Date"
+#~ msgstr "تاریخ انقضا"
+
+#~ msgid "Exclude Sale Items"
+#~ msgstr "برای کادوهای تخفیف دار اعمال نشود"
+
+#~ msgid "Check this box if the coupon should not apply to items on sale."
+#~ msgstr ""
+#~ "اگر نمی خواهید این تخفیف برای کادوهای تخفیفدار لحاظ شود این گزینه را تیک "
+#~ "بزنید"
+
+#~ msgid ""
+#~ " Per-item coupons will only work if the item is not on sale. Per-cart "
+#~ "coupons will only work if there are no sale items in the cart."
+#~ msgstr ""
+#~ "کوپن های براساس آیتم فقط برای کادوهایی که تخفیف ندارند اعمال می شوند و "
+#~ "کوپن های در هر سبد زمانی اعمال میشوند که کادوی تخفیفدار در سبد خرید وجود "
+#~ "نداشته باشد."
+
+#~ msgid "Minimum Amount"
+#~ msgstr "حداقل مقدار خرید"
+
+#~ msgid "Select Some Product"
+#~ msgstr "چند کادو انتخاب کنید"
+
+#~ msgid "Exclude products"
+#~ msgstr "حذف کادوها از این تخفیف"
+
+#~ msgid "Product categories"
+#~ msgstr "دسته بندی کادوها"
+
+#~ msgid "Any category"
+#~ msgstr "هر دسته بندی"
+
+#~ msgid "Exclude product categories"
+#~ msgstr "حذف دسته بندی کادوها"
+
+#~ msgid "No categories"
+#~ msgstr "هیچ دسته بندی"
+
+#~ msgid "Show on store"
+#~ msgstr "نمایش در فروشگاه"
+
+#~ msgid "Check this box if you want to show this coupon in store page."
+#~ msgstr ""
+#~ "اگر می خواهید این کوپن در صفحه فروشگاه شما نمایش داده شود این گزینه را "
+#~ "تیک بزنید."
+
+#~ msgid "Edit Coupon"
+#~ msgstr "ویرایش کوپن"
+
+#~ msgid "Add Coupon"
+#~ msgstr "افزودن کوپن"
+
+#~ msgid "Add new Coupon"
+#~ msgstr "افزودن کوپن جدید"
+
+#~ msgid "Code"
+#~ msgstr "کد"
+
+#~ msgid "Coupon type"
+#~ msgstr "نوع کوپن"
+
+#~ msgid "Coupon amount"
+#~ msgstr "مقدار کوپن"
+
+#~ msgid "Product IDs"
+#~ msgstr "شناسه کادوها"
+
+#~ msgid "Usage / Limit"
+#~ msgstr "محدودیت استفاده"
+
+#~ msgid "Expiry date"
+#~ msgstr "تاریخ انقضا"
+
+#~ msgid "delete"
+#~ msgstr "حذف"
+
+#~ msgid "Fixed Amount"
+#~ msgstr "نرخ ثابت"
+
+#~ msgid "Percent"
+#~ msgstr "درصد"
+
+#~ msgid "See all"
+#~ msgstr "نمایش همه"
+
+#~ msgid "%s / %s"
+#~ msgstr "%s / %s"
+
+#~ msgid "%s / &infin;"
+#~ msgstr "%s / &infin;"
+
+#~ msgid "Latest Announcement"
+#~ msgstr "آخرین اعلانات"
+
+#~ msgid "See All"
+#~ msgstr "نمایش همه"
+
+#~ msgid "Spam"
+#~ msgstr "هرزنامه"
+
+#~ msgid "Become a Vendor"
+#~ msgstr "فروشنده شوید!"
+
+#~ msgid "Shop URL"
+#~ msgstr "آدرس اینترنتی فروشگاه (URL)"
+
+#~ msgid ""
+#~ "I have read and agree to the <a target=\"_blank\" href=\"%s\">Terms &amp; "
+#~ "Conditions</a>."
+#~ msgstr ""
+#~ "<a target=\"_blank\" href=\"%s\">قوانین و مقررات</a> را خوانده ام و آ ن "
+#~ "ها را می پذیرم."
+
+#~ msgid "I am a customer"
+#~ msgstr "خریدار هستم"
+
+#~ msgid "I am a vendor"
+#~ msgstr "فروشنده هستم"
+
+#~ msgid "Profile complete"
+#~ msgstr "پروفایل شما کامل شده است"
+
+#~ msgid "Update account to Vendor"
+#~ msgstr "به روزرسانی حساب کاربری به فروشنده"
+
+#~ msgid "Item"
+#~ msgstr "آیتم"
+
+#~ msgid "Qty"
+#~ msgstr "تعداد"
+
+#~ msgid "Total"
+#~ msgstr "مجموع"
+
+#~ msgid "Discount"
+#~ msgstr "تخفیف"
+
+#~ msgid "Request Refund"
+#~ msgstr "درخواست مرجوعی"
+
+#~ msgid "Enable bulk discount"
+#~ msgstr "تخفیفات انبوه (تعداد بالا) را فعال کنید"
+
+#~ msgid "Minimum quantity"
+#~ msgstr "حداقل تعداد سفارش"
+
+#~ msgid "Discount %"
+#~ msgstr "تخفیف %"
+
+#~ msgid "Search for a product&hellip;"
+#~ msgstr "کادویی را جستجو کنید &hellip;"
+
+#~ msgid "Linked Products"
+#~ msgstr "کادوهای لینک شده"
+
+#~ msgid "Set your linked products for upsell and cross-sells"
+#~ msgstr "کادوهای لینک شده خود را جهت نمایش همزمان و تقاطعی وارد نمایید"
+
+#~ msgid ""
+#~ "Upsells are products which you recommend instead of the currently viewed "
+#~ "product, for example, products that are more profitable or better quality "
+#~ "or more expensive."
+#~ msgstr ""
+#~ "فروش همزمان کادوهایی هستند که در صفحه ی کادویی که مشتریان در حال بازدید "
+#~ "می باشند نمایش داده می شود. کادوهایی که کیفیت بالاتری، سود بیشتری و یا "
+#~ "حتی قیمت بالاتری دارند و می توانند جایگزین خوبی باشند را در اینجا وارد "
+#~ "نمایید."
+
+#~ msgid ""
+#~ "Cross-sells are products which you promote in the cart, based on the "
+#~ "current product."
+#~ msgstr ""
+#~ "در این نوع فروش کادوها در سبد خرید مشتری نمایش داده می شوند زمانی که این "
+#~ "کادو در سبد وجود داشته باشد."
+
+#~ msgid "Options"
+#~ msgstr "گزینه ها"
+
+#~ msgid "Inventory"
+#~ msgstr "انبارداری"
+
+#~ msgid "Discount Options"
+#~ msgstr "تنظیمات تخفیف"
+
+#~ msgid "Set your discount for this product"
+#~ msgstr "تخفیف خود را برای این کادو تنظیم کنید"
+
+#~ msgid " and Variation"
+#~ msgstr " و تنوع"
+
+#~ msgid "Manage attributes and variations for this variable product."
+#~ msgstr "ویژگی ها و تنوعات را برای این کادو مدیریت کنید"
+
+#~ msgid "Manage attributes for this simple product."
+#~ msgstr "ویژگی ها را برای این کادو ساده مدیریت کنید"
+
+#~ msgid "No Results Found"
+#~ msgstr "نتیجه ای پیدا نشد"
+
+#~ msgid "Submitted on "
+#~ msgstr "ارسال شده در "
+
+#~ msgid "Not Spam"
+#~ msgstr "هرزنامه نیست"
+
+#~ msgid "Unapprove"
+#~ msgstr "تایید نشده"
+
+#~ msgid "View Comment"
+#~ msgstr "نمایش نقد و بررسی"
+
+#~ msgid "Author"
+#~ msgstr "نویسنده"
+
+#~ msgid "Comment"
+#~ msgstr "نقد و بررسی"
+
+#~ msgid "Link To"
+#~ msgstr "لینک به"
+
+#~ msgid "-None-"
+#~ msgstr "هیچ"
+
+#~ msgid "Mark Approve"
+#~ msgstr "تایید"
+
+#~ msgid "Mark Spam"
+#~ msgstr "هرزنامه"
+
+#~ msgid "Mark Trash"
+#~ msgstr "زباله دان"
+
+#~ msgid "Mark Not Spam"
+#~ msgstr "هرزنامه نیست"
+
+#~ msgid "Delete permanently"
+#~ msgstr "حذف برای همیشه"
+
+#~ msgid "Approved ("
+#~ msgstr "تایید شده ("
+
+#~ msgid ")"
+#~ msgstr ")"
+
+#~ msgid "Pending ("
+#~ msgstr "در انتظار بررسی ("
+
+#~ msgid "Spam ("
+#~ msgstr "هرزنامه ("
+
+#~ msgid "Trash ("
+#~ msgstr "زباله دان ("
+
+#~ msgid "Discount "
+#~ msgstr "تخفیف"
+
+#~ msgid "Enable storewide discount"
+#~ msgstr "فعال سازی تخفیف سراسری"
+
+#~ msgid "Minimum Order Amount"
+#~ msgstr "حداقل مبلغ خرید"
+
+#~ msgid "SEO Title :"
+#~ msgstr "عنوان سئو"
+
+#~ msgid "SEO Title is shown as the title of your store page"
+#~ msgstr "عنوان سئو به عنوان نام صفحه در نظر گرفته می شود"
+
+#~ msgid "Meta Description :"
+#~ msgstr "توضیحات متا:"
+
+#~ msgid ""
+#~ "The meta description is often shown as the black text under the title in "
+#~ "a search result. For this to work it has to contain the keyword that was "
+#~ "searched for and should be less than 156 chars."
+#~ msgstr ""
+#~ "این متن عموما به عنوان متن توضیحات جستجو در زیر لینک شما در گوگل قرار "
+#~ "میگیرد. برای اینکه این متا تگ کار کند، می بایست کلیدواژه هایی مرتبط با "
+#~ "فروشگاه شما را دربرداشته باشد به گونه ای که از 156 کاراکتر تجاوز نکند."
+
+#~ msgid "Meta Keywords :"
+#~ msgstr "کلیدواژه های متا"
+
+#~ msgid ""
+#~ "Insert some comma separated keywords for better ranking of your store "
+#~ "page."
+#~ msgstr ""
+#~ "کلیدواژه های جدا شده با کاما (,) را وارد نمایید تا برای موتورهای جستجو گر "
+#~ "بهینه تر شوید. کلمات هر کدام یک کلیدواژه محسوب می شوند"
+
+#~ msgid "Facebook Title :"
+#~ msgstr "عنوان اشتراک گذاری در فیس بوک"
+
+#~ msgid "Facebook Description :"
+#~ msgstr "توضیحات فیسبوک"
+
+#~ msgid "Facebook Image :"
+#~ msgstr "تصویر فیسبوک"
+
+#~ msgid "Twitter Title :"
+#~ msgstr "عنوان توییتر"
+
+#~ msgid "Twitter Description :"
+#~ msgstr "توضیحات توییتر"
+
+#~ msgid "Twitter Image :"
+#~ msgstr "تصویر توییتر"
+
+#~ msgid "Check this if you want to enable shipping for your store"
+#~ msgstr ""
+#~ "این را تیک بزنید اگر می خواهید این حمل و نقل را برای فروشگاه خود فعال کنید"
+
+#~ msgid "Enable shipping functionality"
+#~ msgstr "فعالسازی قابلیت حمل و نقل"
+
+#~ msgid "Default Shipping Price"
+#~ msgstr "هزینه پیش فرض حمل و نقل"
+
+#~ msgid ""
+#~ "This is the base price and will be the starting shipping price for each "
+#~ "product"
+#~ msgstr ""
+#~ "این قیمت پایه می باشد و هزینه حمل و نقل اولیه برای هر آیتم خواهد بود"
+
+#~ msgid "Per Product Additional Price"
+#~ msgstr "قیمت اضافی به ازای هر آیتم"
+
+#~ msgid ""
+#~ "If a customer buys more than one type product from your store, first "
+#~ "product of the every second type will be charged with this price"
+#~ msgstr ""
+#~ "اکر مشتری بیش از یک آیتم خرید که از هم متفاوت بودند، اولین آیتم از هر نوع "
+#~ "هزینه حمل و نقل خواهد داشت."
+
+#~ msgid "Every second product of same type will be charged with this price"
+#~ msgstr "دومین آیتم از نوع خاص با ان قیمت محاسبه خواهد شد."
+
+#~ msgid "The time required before sending the product for delivery"
+#~ msgstr "زمان مورد نیاز قبل از ارسل کادو برای تحویل"
+
+#~ msgid "Write your terms, conditions and instructions about shipping"
+#~ msgstr "شرایط و قوانین خود را برای این حمل و نقل بنویسید"
+
+#~ msgid "Write your terms, conditions and instructions about refund"
+#~ msgstr "شرایط و قوانین خود درباره بازگشت کالا را نیز بنویسید"
+
+#~ msgid "Ships from:"
+#~ msgstr "ارسال از "
+
+#~ msgid ""
+#~ "Add the countries you deliver your products to. You can specify states as "
+#~ "well. If the shipping price is same except some countries/states, there "
+#~ "is an option <strong>Everywhere Else</strong>, you can use that."
+#~ msgstr ""
+#~ "کشورهایی که شما به آن ها ارسال میکنید را اضافه کنید. شما می توانید استان "
+#~ "ها را نیز مدیریت نمایید. اگر حمل و نقل عموما ثابت است به جز برخی از استان "
+#~ "ها، گزینه دیگر به نام همه جای دیگر می توانید استفاده نمایید."
+
+#~ msgid "Ship to"
+#~ msgstr "ارسال به"
+
+#~ msgid "Add Location"
+#~ msgstr "افزودن مکان"
+
+#~ msgid "Update Settings"
+#~ msgstr "به روزرسانی تنظیمات"
+
+#~ msgid "% Profile complete"
+#~ msgstr "% پروفایل شما کامل شده است."

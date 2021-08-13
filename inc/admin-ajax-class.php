@@ -524,6 +524,7 @@ class OOAdminAjax
 							$session_cart[$new_cart_key]['variation_id'] = $vids[$key];
 						}
 						$d_qty = (int)$qtys[$key] > 0 ? $qtys[$key] : 1;
+						$price = empty($price) ? 0 : $price;
 						$session_cart[$new_cart_key]['line_subtotal'] = $price * $d_qty;
 						$session_cart[$new_cart_key]['line_total'] = $price * $d_qty;
 						$session_cart[$new_cart_key]['quantity'] = $d_qty;

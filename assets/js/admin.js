@@ -1142,6 +1142,7 @@ jQuery(document).ready( function ($) {
     editor_status = 0;
     jQuery('.oo-session-list li').removeClass('active');
     jQuery('.oo-tab').removeClass('active');
+    jQuery('.oo-cart-overlay').addClass('hide');
     jQuery('#tab-default').addClass('active');
     jQuery('.oo-chat-list').html('<li class="oo-chat-start"><div class="oo-start-inner"><i class="icon icon-default-chat big"></i><br />'+oometrics.labels.startChatOrPushToSession+'</div></li>');
     jQuery('.oo-dashboard-reply').removeClass('block');
